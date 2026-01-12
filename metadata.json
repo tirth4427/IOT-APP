@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Tirth Solutions Manager",
+  "description": "Premium Lead Generation & Project Management System for Tirth Electronics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
